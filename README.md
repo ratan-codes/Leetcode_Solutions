@@ -31,6 +31,7 @@ My daily LeetCode practice and solutions.
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
@@ -58,6 +59,7 @@ My daily LeetCode practice and solutions.
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
