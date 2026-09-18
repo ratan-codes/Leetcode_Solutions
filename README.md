@@ -54,6 +54,7 @@ My daily LeetCode practice and solutions.
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
@@ -77,4 +78,8 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
