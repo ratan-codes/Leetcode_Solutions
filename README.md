@@ -70,6 +70,7 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -82,4 +83,8 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
