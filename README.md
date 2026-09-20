@@ -31,6 +31,7 @@ My daily LeetCode practice and solutions.
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@ My daily LeetCode practice and solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Geometry
 |  |
