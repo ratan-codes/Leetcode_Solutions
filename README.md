@@ -47,6 +47,7 @@ My daily LeetCode practice and solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -56,6 +57,7 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -86,6 +88,7 @@ My daily LeetCode practice and solutions.
 | ------- |
 | [0283-move-zeroes](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Geometry
 |  |
 | ------- |
