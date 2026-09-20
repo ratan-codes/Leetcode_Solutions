@@ -57,6 +57,7 @@ My daily LeetCode practice and solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -87,4 +88,8 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
