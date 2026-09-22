@@ -35,6 +35,7 @@ My daily LeetCode practice and solutions.
 | [0605-can-place-flowers](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My daily LeetCode practice and solutions.
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3525-find-x-value-of-array-ii](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -97,4 +99,8 @@ My daily LeetCode practice and solutions.
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ratan-codes/Leetcode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
